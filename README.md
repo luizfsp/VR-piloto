@@ -14,7 +14,7 @@
             https://www.unrealengine.com/marketplace/sci-fi-rooms-and-corridors-interior-kit
       2.3 Pequenas alterações no ambiente para cada categoria de curso disponibilizada.
 
-  # 3. Modo de movimento - Full Locomotion / Teleporte;
+  # 3. Modo de movimento - Full Locomotion / Teleport;
       3.1 Propiciar ambas as opções, indagando o usuário no início da experiência (alerta de nausea para Full Locomotion).
       3.2 Full Locomotion deverá simular no ambiente 3D os movimentos de uma Esteira omnidirecional Gamer, por ex.: http://www.virtuix.com/, pois equipamento será utilizado como parte da experiência.
   
