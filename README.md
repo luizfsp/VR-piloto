@@ -4,7 +4,7 @@
 
   # 1. Experiência com equipamento 6DOF, interações através de avatar;
       1.1 Compatibilidade com Oculus Rift, HTC Vive ou qualquer headset Windows Mixed Reality.
-      1.2 Interação se dá, de forma geral, pelos movimentos básicos de locomoção (descritios abaixo), além dos movimentos através do controle do headset: select, touch, drop, expand e skip.
+      1.2 Interação se dá, de forma geral, pelos movimentos básicos de locomoção (descritos abaixo), além dos movimentos através do controle do headset: select, touch, drop, expand e skip.
     
   # 2. Assets 3D para o piloto adquiridos no [UE Marketplace] https://www.unrealengine.com/marketplace
       2.1 Ideia inicial: Corredor onde o usuário se movimenta e interage com conteúdo de um curso.
