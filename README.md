@@ -1,6 +1,6 @@
 # VR-piloto
 
-# Desenvolvimento em Unreal Engine 4 (Blueprints Visual e C++) para criação de um ambiente virtual com os seguintes requisitos básicos:
+# Desenvolvimento em Unreal Engine 4 (Blueprints Visual e C++) para criação de um ambiente virtual com as seguintes premissas:
 
   # 1. Experiência com equipamento 6DOF, interações através de avatar;
       1.1 Compatibilidade com Oculus Rift, HTC Vive ou qualquer headset Windows Mixed Reality.
